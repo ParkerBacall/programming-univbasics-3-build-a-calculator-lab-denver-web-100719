@@ -10,12 +10,12 @@ end
 
 def division(num1, num2)
   divide = num1 / num2
-  p difference
+  p divide
 end
 
 def multiplication(num1, num2)
   product = num1 * num2
-  p difference
+  p product
 end
 
 def modulo(num1, num2)
